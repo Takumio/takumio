@@ -5,7 +5,8 @@
 
 **`Programmer, Systems Designer`**
 
-{"modelVersion":2,"piskel":{"name":"pc","description":"","fps":12,"height":32,"width":32,"layers":["{\"name\":\"Layer 1\",\"opacity\":1,\"frameCount\":1,\"chunks\":[{\"layout\":[[0]],\"base64PNG\":\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAoklEQVR4AexUuw6AIAxEVyf//yOdnLVnUgMES1MxLmc4aJs+jktkTj9/JEAFqAAVoAKWAoe80h5IWnxZBFLaNxvxuXelTQBpy4q9RCtWZri9PgGogHYYCsDWGOyX6BPQARgKqD/otAngxhYGkLAITNI/h7jXymOwr2B0swhoT/0Vn3yNh04PAdyyhdDAushDoK4Z6pMAFaACVIAKfK5A790+AQAA//9cY7xZAAAABklEQVQDALH1JkFipgGIAAAAAElFTkSuQmCC\"}]}"],"hiddenFrames":[]}}  Html & basic Python   
+<img width="32" height="32" alt="New Piskel" src="https://github.com/user-attachments/assets/e68f1bac-068b-4bdf-94e6-0d1dd0be8f0e" />
+  Html & basic Python   
 📚 Studied **Basic Python and Html in the Alexandre Von Humbonlt**  
    
 ### Languages and Tools
