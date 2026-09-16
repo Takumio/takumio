@@ -7,6 +7,7 @@
 
 <img width="32" height="32" alt="New Piskel" src="https://github.com/user-attachments/assets/e68f1bac-068b-4bdf-94e6-0d1dd0be8f0e" />
   Html & basic Python   
+
 📚 Studied **Basic Python and Html in the Alexandre Von Humbonlt**  
    
 ### Languages and Tools
