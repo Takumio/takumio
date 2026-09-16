@@ -5,7 +5,7 @@
 
 **`Programmer, Systems Designer`**
 
-<img width="32" height="32" alt="New Piskel (1)" src="https://github.com/user-attachments/assets/64e3bde4-3ffd-444e-95b3-18bf938ce467" />
+<img width="32" height="32" alt="New Piskel" src="https://github.com/user-attachments/assets/086bc164-2c23-4071-81dd-73990ca58c59" />
   Html & basic Python   
 
 📚 Studied **Basic Python and Html in the Alexandre Von Humbonlt**  
